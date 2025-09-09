@@ -1,0 +1,7 @@
+# Dependencies for KNN in Python project
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Optional libraries useful for data analysis
+matplotlib>=3.5.0  # For plotting graphs
+scikit-learn>=1.0.0  # For machine learning (includes KNN)
