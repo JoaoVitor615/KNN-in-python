@@ -6,9 +6,7 @@ Other fields are automatically detected as customizable features.
 """
 
 import pandas as pd
-import numpy as np
-from datetime import datetime
-from typing import Dict, List, Tuple, Optional
+from typing import Tuple
 
 
 class SalesDataLoader:
